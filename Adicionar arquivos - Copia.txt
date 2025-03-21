@@ -1,0 +1,6 @@
+Estudos git
+
+- Crir git bash here na pasta
+- Procurar por arquivos ocultos
+- git init 
+
