@@ -1,0 +1,3 @@
+Criar primeiro Commit 
+
+- git commit -m "Comit inicia (boas praticas)"
